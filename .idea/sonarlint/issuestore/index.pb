@@ -26,3 +26,27 @@ Qapp/src/test/java/com/mahmoudbashir/androidunittestingapplying/ExampleUnitTest.
 app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 F
 app/proguard-rules.pro,9\e\9e08934d811afe28fbc77aaa3c0d747b94348db9
+ç
+]app/src/androidTest/java/com/mahmoudbashir/androidunittestingapplying/ResourceComparerTest.kt,9\d\9d3418edb141adf458557a740085c16b7ffc420d
+Ç
+Rapp/src/main/java/com/mahmoudbashir/androidunittestingapplying/ResourceComparer.kt,1\7\1775e7c0838ab492e71cb1619545a08bd8b9f2ed
+É
+Sapp/src/main/java/com/mahmoudbashir/androidunittestingapplying/RegisterationUtil.kt,9\6\9673c60289c7c1ba9f668316de4424eaa138979d
+á
+Wapp/src/test/java/com/mahmoudbashir/androidunittestingapplying/RegisterationUtilTest.kt,c\e\ce79020465d978bc9bdcfad2c0b0a5395c3a19b1
+â
+Yapp/src/main/java/com/mahmoudbashir/androidunittestingapplying/local/data/ShoppingItem.kt,f\6\f6ade13427defc4a6e020f90c0d0afcb4bdbc8e3
+Ö
+Uapp/src/main/java/com/mahmoudbashir/androidunittestingapplying/ShoppingApplication.kt,e\a\ea5b541e194f3888ab1222e7c0cc468ddf701ec7
+à
+Xapp/src/main/java/com/mahmoudbashir/androidunittestingapplying/local/data/ShoppingDao.kt,6\5\657d51445cd0bd5f80bfc721b2274c24e03b1c4e
+ã
+[app/src/main/java/com/mahmoudbashir/androidunittestingapplying/local/data/ShoppingItemDb.kt,5\a\5a58664e24873b629b22732f4d93d8ae0432b63c
+ê
+`app/src/androidTest/java/com/mahmoudbashir/androidunittestingapplying/LiveDataUtilAndroidTest.kt,5\1\51d0bb9165c451d5231057214e9f41c195f52751
+Å
+Qapp/src/main/java/com/mahmoudbashir/androidunittestingapplying/ui/MainActivity.kt,d\f\dfb634d00476a8a04d6c64c191c4bac8d872ef92
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+ì
+capp/src/androidTest/java/com/mahmoudbashir/androidunittestingapplying/data/local/ShoppingDaoTest.kt,7\0\70a224bf73c4a9c44eec58bb23a6cb88ce7b66f8
